@@ -1,0 +1,1 @@
+Questo file serve solo ad evitare che, se tutte le partite vengono cancellate, anche la cartella "Partita" venga cancellata
